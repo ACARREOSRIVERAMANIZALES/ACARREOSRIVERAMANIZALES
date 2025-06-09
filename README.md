@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Acarreos Gratis Manizales</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f8f8;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #007bff;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    .cta {
+      background-color: #28a745;
+      color: white;
+      padding: 15px;
+      text-align: center;
+      font-size: 1.2em;
+      border-radius: 5px;
+      margin-top: 20px;
+      text-decoration: none;
+      display: inline-block;
+    }
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Acarreos Gratis Manizales</h1>
+    <p>¡Tu solución rápida y sin costo para mover lo que necesites!</p>
+  </header>
+
+  <section>
+    <h2>¿Qué ofrecemos?</h2>
+    <ul>
+      <li>Traslado de muebles pequeños</li>
+      <li>Acarreos dentro de Manizales</li>
+      <li>Servicio rápido y amable</li>
+      <li>100% gratuito para usuarios seleccionados</li>
+    </ul>
+
+    <h2>¿Quiénes somos?</h2>
+    <p>Somos un grupo de voluntarios comprometidos con ayudar a personas en situación de necesidad. Nos enfocamos en brindar apoyo logístico a quienes no pueden pagar un transporte tradicional.</p>
+
+    <h2>¿Cómo solicitar un acarreo?</h2>
+    <ol>
+      <li>Contáctanos por WhatsApp o llamada</li>
+      <li>Cuéntanos qué necesitas mover y desde dónde</li>
+      <li>Coordinamos contigo el día y la hora</li>
+    </ol>
+
+    <a class="cta" href="https://wa.me/573001112233" target="_blank">¡Contáctanos por WhatsApp!</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Acarreos Gratis Manizales. Todos los derechos reservados.</p>
+  </footer>
+
+</body>
+</html>
